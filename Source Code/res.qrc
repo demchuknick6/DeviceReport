@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/icon/main">
+        <file>res/Quit.png</file>
+	<file>res/Save.png</file>
+        <file>res/Refresh.png</file>
+        <file>res/Audio.png</file>
+	<file>res/About.png</file>
+        <file>res/Help.png</file>
+        <file>res/Display.png</file>
+        <file>res/Image.png</file>
+        <file>res/Monitor.png</file>
+        <file>res/MainIcon.png</file>
+    </qresource>
+    <qresource prefix="/icon/about">
+        <file>res/logo.png</file>
+    </qresource>
+</RCC>
